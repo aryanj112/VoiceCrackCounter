@@ -8,6 +8,11 @@ function App() {
 
   return (
     <>
+    <h1>
+      Voice Crack Counter
+    </h1>
+    
+
     </>
   )
 }
