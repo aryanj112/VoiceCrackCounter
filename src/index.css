@@ -1,0 +1,12 @@
+body {
+    background-color: DodgerBlue;
+}
+
+h1{
+  text-align: center;
+}
+button{
+  text-align: center;
+  display: flexbox;
+}
+  
